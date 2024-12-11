@@ -23,7 +23,8 @@ A Hard Disk Drive (HDD) stores data magnetically on spinning disks called platte
 A Solid-State Drive (SSD) stores data on flash memory chips instead of spinning disks. It has no moving parts, making it faster, more durable, and energy-efficient than traditional hard drives. Data is stored in memory cells that retain information even when the power is off. SSDs access data quickly, improving boot times, application loading, and overall system performance. The recomended amount of space to have on an SSD is 1 to 2 terrabytes.
 
 ### Mother Board
-<img src="" alt="Mother Board" width="200" height="80">
+<img src="https://github.com/TedLessmann/Final_Project/blob/main/images/Screenshot%202024-12-10%20213803.png" alt="Mother Board" width="200" height="200">
+The motherboard is the main circuit board in a computer that connects and allows communication between all the essential components. It serves as the central hub for connecting the CPU, RAM, storage devices, GPU, and other peripherals like USB ports, sound cards, and network interfaces.
 
 
 
