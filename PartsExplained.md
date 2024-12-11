@@ -10,8 +10,12 @@ A CPU is the "brain" of a computer. It processes instructions from programs and 
 <img src="https://github.com/TedLessmann/Final_Project/blob/main/images/Screenshot%202024-12-10%20193817.png" alt="Fishing Rod" width="120" height="120">
 It is a type of computer memory that temporarily stores data and programs that the CPU needs while performing tasks. However, RAM is volatile memory, meaning its contents are erased when the computer is turned off. The recomended amount of RAM to have is 32GB.
 
-### Graphics Proccessing Unit
-<img src="https://github.com/TedLessmann/Final_Project/blob/main/images/Screenshot%202024-12-10%20193817.png" alt="Fishing Rod" width="120" height="120">
+### Graphics Proccessing Unit(GPU):
+<img src="https://github.com/TedLessmann/Final_Project/blob/main/images/Screenshot%202024-12-10%20201431.png" alt="Fishing Rod" width="120" height="120">
+A GPU is a specialized processor designed to handle computations related to rendering images, videos, and animations. It's optimized for parallel processing, making it highly efficient at handling large amounts of data simultaneously. Graphics cards are picked out based on their resolutions. The recomended amount of resolution for content creation is 4k, which stands for the approximate amount of horizontal pixels displayed.
+
+### Solid State Drive (SSD):
+<img src="https://github.com/TedLessmann/Final_Project/blob/main/images/Screenshot%202024-12-10%20201431.png" alt="Fishing Rod" width="120" height="120">
 
 
 
