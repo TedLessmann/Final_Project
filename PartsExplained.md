@@ -7,6 +7,6 @@ A CPU is the "brain" of a computer. It processes instructions from programs and 
 
 ### Random Access Memory (RAM)
 
-<img src="https://github.com/TedLessmann/Final_Project/blob/main/images/Screenshot%202024-12-10%20184653.png" alt="Fishing Rod" width="120" height="120">
+<img src="" alt="Fishing Rod" width="120" height="120">
 
 
