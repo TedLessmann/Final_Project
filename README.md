@@ -13,3 +13,4 @@ that will be mentioned. I believe the age of those people will start with highsc
 are in touch with technology, so the estimated ages will primarily be people who are fifteen up to forty.
 
 # Parts Explained
+![Alt text](https://example.com/path/to/your/gif.gif)
