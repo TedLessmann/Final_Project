@@ -6,4 +6,5 @@
 ## Tutorial:
 1. First step choose the workstation thats geared more towards content creation
 <img src="https://github.com/TedLessmann/Final_Project/blob/main/images/Screenshot%202024-12-11%20181235.png" alt="CPU" width="300" height="200">
-   
+2. Choose the base model, remember the recomended specs in the PC parts page
+![Tut#2 gif]()   
