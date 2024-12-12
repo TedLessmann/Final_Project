@@ -16,4 +16,4 @@ are in touch with technology, so the estimated ages will primarily be people who
 [Parts Explained Page](https://github.com/TedLessmann/Final_Project/blob/main/PartsExplained.md)
 
 ## Building the PC:
-[PC Build Page](https://github.com/TedLessmann/Final_Project/blob/main/PartsExplained.md)
+[PC Build Page](https://github.com/TedLessmann/Final_Project/blob/main/PCBuild.md)
